@@ -15,7 +15,7 @@ const data = {
     },
     {
       name: 'On the Essence of Chassidus',
-      slug: 'on-the-essence-of-chassidus',
+      slug: 'on-the-essence-of-chassidus-2',
       category: 'Chassidus',
       image: '/images/chas1.jpg',
       price: 4,
@@ -41,7 +41,7 @@ const data = {
     },
     {
       name: 'My Rebbe (Hebrew)',
-      slug: 'my-rebbe-hebrew',
+      slug: 'my-rebbe-hebrew-2',
       category: 'Chassidic Thought',
       image: '/images/Rebbe1.jpg',
       price: 4,
@@ -54,7 +54,7 @@ const data = {
     },
     {
       name: 'My Rebbe (Hebrew)',
-      slug: 'my-rebbe-hebrew',
+      slug: 'my-rebbe-hebrew-3',
       category: 'Chassidic Thought',
       image: '/images/Rebbe1.jpg',
       price: 9,
