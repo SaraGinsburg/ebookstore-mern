@@ -37,3 +37,6 @@
    2. update fetch data
    3. get state from useReducer
    4. npm install use-reducer-logger
+10. Add bootstrap UI Framework
+    1. npm install react-bootstrap bootstrap
+    2. update App.js
