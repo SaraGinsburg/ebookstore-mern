@@ -1,6 +1,7 @@
 const data = {
   products: [
     {
+      _id: '1',
       name: 'On the Essence of Chassidus',
       slug: 'on-the-essence-of-chassidus',
       category: 'Chassidus',
@@ -8,12 +9,13 @@ const data = {
       price: 4,
       publisher: 'Kehot',
       condition: 'new',
-      countInStock: 0,
+      countInStock: 3,
       rating: 4.5,
       numReviews: 12,
       description: 'very well written',
     },
     {
+      _id: '2',
       name: 'On the Essence of Chassidus',
       slug: 'on-the-essence-of-chassidus-2',
       category: 'Chassidus',
@@ -27,6 +29,7 @@ const data = {
       description: 'very well written',
     },
     {
+      _id: '3',
       name: 'My Rebbe (Hebrew)',
       slug: 'my-rebbe-hebrew',
       category: 'Chassidic Thought',
@@ -40,6 +43,7 @@ const data = {
       description: 'very well written',
     },
     {
+      _id: '4',
       name: 'My Rebbe (Hebrew)',
       slug: 'my-rebbe-hebrew-2',
       category: 'Chassidic Thought',
@@ -53,6 +57,7 @@ const data = {
       description: 'very well written',
     },
     {
+      _id: '5',
       name: 'My Rebbe (Hebrew)',
       slug: 'my-rebbe-hebrew-3',
       category: 'Chassidic Thought',
