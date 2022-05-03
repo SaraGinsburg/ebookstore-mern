@@ -9,7 +9,7 @@ import Axios from 'axios';
 import { toast } from 'react-toastify';
 import { getError } from '../utils';
 
-export default function SigninScreen() {
+function SigninScreen() {
   const navigate = useNavigate();
   const { search } = useLocation();
   const redirectInUrl = new URLSearchParams(search).get('redirect');
@@ -75,3 +75,4 @@ export default function SigninScreen() {
     </Container>
   );
 }
+export default SigninScreen;
